@@ -11,3 +11,7 @@ File details:
 You may either view the notebooks and try out the code on colab or download them and run with your local python installation.
 
 PS: More details to come as the course proceeds...
+
+
+References:
+PyTorch official tutorials: https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html
